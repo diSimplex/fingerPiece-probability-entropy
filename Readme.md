@@ -43,9 +43,9 @@ Academia.edu](https://www.academia.edu/77279929/Bayes_Rules_in_Finite_Models)
   Probability](http://projecteuclid.org/download/pdf_1/euclid.ba/1340369856)
 
 
-We generalise these ideas to work with any(?) (appropriate?) lattice.
+We generalize these ideas to work with any(?) (appropriate?) lattice.
 
-We can then further generalise these ideas to the lattice of lattices...
+We can then further generalize these ideas to the lattice of lattices...
 to obtain something similar to Peter Walley's Imprecise Probability.
 
 - [Imprecise probability -
