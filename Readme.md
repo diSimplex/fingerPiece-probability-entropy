@@ -50,3 +50,9 @@ to obtain something similar to Peter Walley's Imprecise Probability.
 
 - [Imprecise probability -
   Wikipedia](https://en.wikipedia.org/wiki/Imprecise_probability)
+
+## Heyting algebras
+
+- [reference request - Is there a probability theory developed in
+  intuitionistic logic? -
+  MathOverflow](https://mathoverflow.net/questions/139267/is-there-a-probability-theory-developed-in-intuitionistic-logic)
