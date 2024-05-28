@@ -56,3 +56,8 @@ to obtain something similar to Peter Walley's Imprecise Probability.
 - [reference request - Is there a probability theory developed in
   intuitionistic logic? -
   MathOverflow](https://mathoverflow.net/questions/139267/is-there-a-probability-theory-developed-in-intuitionistic-logic)
+
+# Probability Axioms
+
+- [Kolmogorov's probability axioms - Mathematics Stack
+  Exchange](https://math.stackexchange.com/questions/1431876/kolmogorovs-probability-axioms)
